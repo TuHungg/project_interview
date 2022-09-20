@@ -1,18 +1,22 @@
 # "Project for Interview"
 
-👋 Hello, I'm Hung.
+## 👋 Hello, I'm Hung.
 
-### 🚀 Links of task 1
+### 🚀This is Links of task 1, you can use it to access to link project
 
 - 🔗 [task1_frontend](https://github.com/TuHungg/task1_frontend)
 - 🔗 [task1_backend](https://github.com/TuHungg/task1_backend)
 
-### 🚀 Links of task 3
+---
+
+### 🚀This is Links of task 3, you can use it to access to link project
 
 **Note:** I haven yet to completed all the requirements of task 3.
 
 - 🔗 [task3_frontend](https://github.com/TuHungg/task3_frontend)
 - 🔗 [task3_backend](https://github.com/TuHungg/task3_backend)
+
+---
 
 #### Decsription
 
